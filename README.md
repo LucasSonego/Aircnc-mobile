@@ -7,7 +7,7 @@ Esta é a aplicação mobile, desenvolvida com **React Native**.
 |----------------|-------------------------------|-----------------------------|
 |<img src="https://i.imgur.com/Fx78Xyn.png" height="600px"></img>|<img src="https://i.imgur.com/AWQMpTX.jpg" height="600px"></img>|<img src="https://i.imgur.com/BskaSX1.png" height="600px"></img>|
 
-## Api e interface Web
+## Api e aplicação Web
 
 Este projeto tem como um a de suas principais características o **desacoplamento** entre o backend, frontend e mobile
 Veja as outras "partes" do projeto
