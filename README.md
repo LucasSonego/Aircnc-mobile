@@ -5,7 +5,7 @@ Esta é a aplicação mobile, desenvolvida com **React Native**.
 
 |  Login         |Spots                          |Reservas                     |
 |----------------|-------------------------------|-----------------------------|
-|<img src="https://i.imgur.com/Fx78Xyn.png" height="700px"></img>|<img src="https://i.imgur.com/AWQMpTX.jpg" height="700px"></img>|<img src="https://i.imgur.com/BskaSX1.png" height="700px"></img>|
+|<img src="https://i.imgur.com/Fx78Xyn.png" height="600px"></img>|<img src="https://i.imgur.com/AWQMpTX.jpg" height="600px"></img>|<img src="https://i.imgur.com/BskaSX1.png" height="600px"></img>|
 
 ## Api e interface Web
 
