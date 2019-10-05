@@ -9,7 +9,7 @@ Esta é a aplicação mobile, desenvolvida com **React Native**.
 
 ## Api e aplicação Web
 
-Este projeto tem como um a de suas principais características o **desacoplamento** entre o backend, frontend e mobile
+Este projeto tem como uma de suas principais características o **desacoplamento** entre o backend, frontend e mobile
 Veja as outras "partes" do projeto
 >**[Api REST](https://github.com/LucasSonego/Aircnc-api)** utilizando NodeJS.
 
