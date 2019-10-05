@@ -13,4 +13,4 @@ Este projeto tem como um a de suas principais características o **desacoplament
 Veja as outras "partes" do projeto
 >**[Api REST](https://github.com/LucasSonego/Aircnc-api)** utilizando NodeJS.
 
->**[Interface Web](https://github.com/LucasSonego/Aircnc-web)** utilizando ReactJS.
+>**[Aplicação Web](https://github.com/LucasSonego/Aircnc-web)** utilizando ReactJS.
